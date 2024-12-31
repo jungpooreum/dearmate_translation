@@ -1,7 +1,7 @@
 import json
 
 # JSON 파일 경로
-file_path = "Strings.json"  # JSON 파일 경로
+file_path = "strings.json"  # JSON 파일 경로
 
 # JSON 파일 읽기
 with open(file_path, "r", encoding="utf-8") as file:
